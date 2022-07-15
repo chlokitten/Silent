@@ -1,5 +1,5 @@
 local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/chlokitten/Silent/main/silentlibe09569023768923786902378692086902346809423687903428790437843098769204386248096"))()
-Aiming.TeamCheck(false)
+Aiming.TeamCheck(true)
 
 local Workspace = game:GetService("Workspace")
 local Players = game:GetService("Players")
